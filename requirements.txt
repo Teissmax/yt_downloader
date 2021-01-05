@@ -1,0 +1,2 @@
+pytube @ git+https://github.com/nficano/pytube@27161803d09d0012798e53f540a09899dd357107
+typing-extensions==3.7.4.3
